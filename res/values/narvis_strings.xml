@@ -75,5 +75,9 @@
     <string name="contributors_category">Contributors</string>
     <string name="asta">Geo Emmanuel</string>
     <string name="asta_summary">Animation designer</string>
+    
+    <!-- Lock Icon -->
+    <string name="hide_lockicon_title">Hide lock icon</string>
+    <string name="hide_lockicon_summary">Hide the lock icon on lockscreen</string>
 
 </resources>
